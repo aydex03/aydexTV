@@ -56,8 +56,14 @@ http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8
 #EXTINF:-1 group-title="aydex",NTV
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="aydex",TRT Haber
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+
 #EXTINF:-1 group-title="aydex",TLC TV
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+
+#EXTINF:-1 group-title="aydex",DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
 
 #EXTINF:-1 group-title="aydex",Afyon Turk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
