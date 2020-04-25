@@ -44,6 +44,11 @@ https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17c
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 
+#EXTINF:0 group-title="aydex",STAR TV HD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:0 group-title="aydex",Kanal Avrupa
+http://51.15.10.173/hls/kanalavrupa.m3u8
 
 #EXTINF:-1 group-title="aydex",,Kanal 3
 http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8
@@ -51,8 +56,7 @@ http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8
 #EXTINF:-1 group-title="aydex",Afyon Turk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 
-#EXTINF:0 group-title="aydex",Kanal Avrupa
-http://51.15.10.173/hls/kanalavrupa.m3u8
+
 
 
 
