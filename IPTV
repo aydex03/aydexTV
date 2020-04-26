@@ -65,5 +65,50 @@ https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 group-title="aydex",Afyon Turk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 
-
+#EXTINF:-1,KANAL D HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/66
+#EXTINF:-1,STAR HD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/69
+#EXTINF:-1,FOX HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/72
+#EXTINF:-1,TV 8 HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
+#EXTINF:-1,KANAL 7 HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/83
+#EXTINF:-1,BEYAZ HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/87
+#EXTINF:-1,A2 HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/89
+#EXTINF:-1,CEM TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/104
+#EXTINF:-1,CAN TV HD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/105
+#EXTINF:-1,YOL TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/107
+#EXTINF:-1,TV 5
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/113
+#EXTINF:-1,NTV HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/128
+#EXTINF:-1,CNN TÜRK HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/129
+#EXTINF:-1,HABER TÜRK HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/130
+#EXTINF:-1,24 HABER HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/134
+#EXTINF:-1,KRT HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/135
+#EXTINF:-1,TV 100 HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/136
+#EXTINF:-1,ARTI TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/139
+#EXTINF:-1,TELE 1
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/140
+#EXTINF:-1,HALK TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/141
+#EXTINF:-1,ULUSAL KANAL
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/142
+#EXTINF:-1,BLOOMBERG HT HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/151
+#EXTINF:-1,EKO TÜRK TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/152
 
