@@ -31,7 +31,7 @@ http://51.255.7.18:8080/hls/damar.m3u8
 #EXTINF:-0 group-title="MUZIK",SLOW KARADENIZ TV
 http://slowkaradeniztv.yayin.com.tr/slowkaradeniztv/smil:slowkaradeniztv.smil/playlist.m3u8
 
-#EXTINF:0 group-title="MUZIK",TRT Muzik TR
+#EXTINF:0 group-title="MUZIK",TRT Muzik
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
 
 #EXTINF:0 group-title="MUZIK",POWER TV
