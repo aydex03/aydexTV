@@ -77,28 +77,26 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/83
 #EXTINF:-1 group-title="TEST",BEYAZ
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/87
-#EXTINF:-1 group-title="TEST",A2
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/89
-#EXTINF:-1 group-title="TEST",CEM TV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/104
-#EXTINF:-1 group-title="TEST",CAN TV 
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/105
-#EXTINF:-1 group-title="TEST",YOL TV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/107
-#EXTINF:-1 group-title="TEST",TV 5
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/113
-#EXTINF:-1 group-title="TEST",NTV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/128
 #EXTINF:-1 group-title="TEST",CNN TÜRK
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/129
 #EXTINF:-1 group-title="TEST",HABER TÜRK
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/130
+#EXTINF:-1 group-title="TEST",NTV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/128
 #EXTINF:-1 group-title="TEST",24 HABER
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/134
+#EXTINF:-1 group-title="TEST",A2
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/89
+#EXTINF:-1 group-title="TEST",TV 5
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/113
 #EXTINF:-1 group-title="TEST",KRT
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/135
 #EXTINF:-1 group-title="TEST",TV 100
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/136
+#EXTINF:-1 group-title="TEST",BLOOMBERG HT
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/151
+#EXTINF:-1 group-title="TEST",EKO TÜRK
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/152
 #EXTINF:-1 group-title="TEST",ARTI TV
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/139
 #EXTINF:-1 group-title="TEST",TELE 1
@@ -107,8 +105,10 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/140
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/141
 #EXTINF:-1 group-title="TEST",ULUSAL KANAL
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/142
-#EXTINF:-1 group-title="TEST",BLOOMBERG HT
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/151
-#EXTINF:-1 group-title="TEST",EKO TÜRK
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/152
+#EXTINF:-1 group-title="TEST",CEM TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/104
+#EXTINF:-1 group-title="TEST",CAN TV 
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/105
+#EXTINF:-1 group-title="TEST",YOL TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/107
 
