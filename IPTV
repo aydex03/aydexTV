@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 group-title="Corona",Corona World Map
-https://youtu.be/NMre6IAAAiU
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588047478/ei/FlqnXuv5LILB-gavwaKICQ/ip/2a01%3Ac22%3A9027%3Aaf00%3A313e%3Ad55b%3A3dd3%3Aa756/id/NMre6IAAAiU.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIgQj6ZW8F7hRGT16zHEcteZR0_h05zamTpnmNl0hPP7tgCIQDlvA9y5tEK4_VhhTXiA0joPqN906Zbm_R_Tc3Yiz9ZsQ%3D%3D/file/index.m3u8
 
 #EXTINF:0 group-title="Corona",Covid 19 Info
 https://youtu.be/cRy5_KpPxyM
