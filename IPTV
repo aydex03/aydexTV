@@ -65,7 +65,7 @@ https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 group-title="aydex",Afyon Turk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 
-#EXTINF:-1,KANAL D HD+
+#EXTINF:-1,group-title="TEST",KANAL D HD+
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/66
 #EXTINF:-1,STAR HD
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/69
