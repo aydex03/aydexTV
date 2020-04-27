@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:0 group-title="Corona",Covid 19 Info
+https://youtu.be/cRy5_KpPxyM
+
 #EXTINF:0 group-title="MUZIK",KRAL TV
 http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
 
