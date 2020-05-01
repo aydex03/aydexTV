@@ -51,7 +51,7 @@ http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 group-title="aydex",TRT 2
-https://tv-trt2.live.trt.com.tr/master.m3u8
+https://tv-trt2.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 group-title="aydex",Kanal Avrupa
 http://51.15.10.173/hls/kanalavrupa.m3u8
