@@ -163,3 +163,13 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/105
 #EXTINF:-1 group-title="TEST",YOL TV
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/107
 
+
+#EXTINF:-1 tvg-logo="https://icons.iconarchive.com/icons/custom-icon-design/flag-3/256/Turkey-Flag-icon.png" tvg-name="BLUTV KOMEDİ HD"  group-title="✫SİNEMA✫",BLUTV KOMEDİ HD
+https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
+#EXTINF:-1 tvg-logo="https://icons.iconarchive.com/icons/custom-icon-design/flag-3/256/Turkey-Flag-icon.png" tvg-name="BLUTV KOMEDİ HD"  group-title="✫SİNEMA✫",BLUTV KOMEDİ HD
+https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.yurtgazetesi.com.tr/images/haberler/2019/11/sinema_destek_fonu_basvuru_tarihi_aciklandi_h142857_988bb.jpg" tvg-name="VİZYON TV"  group-title="✫SİNEMA✫",VİZYON TV
+https://vizyontv.yayin.com.tr/vizyontv/vizyontv_1080p/chunklist_w1148765115.m3u8
+#EXTINF:-1 tvg-logo="https://www.yurtgazetesi.com.tr/images/haberler/2019/11/sinema_destek_fonu_basvuru_tarihi_aciklandi_h142857_988bb.jpg" tvg-name="YAN SİNEMA TV"  group-title="✫SİNEMA✫",YAN SİNEMA TV
+https://usb1.ninacdn.com/ssh101/YansinemaTV/YansinemaTV/chunklist_w1521989757.m3u8
+
