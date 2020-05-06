@@ -71,13 +71,17 @@ https://tv.kuzeytv.com/hls/tv85.m3u8
 #EXTINF:0 group-title="aydex",Kanal 7
 https://tv.kuzeytv.com/hls/kanal7.m3u8
 
+#EXTINF:-1 group-title="aydex",360 TV HD
+http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
+
 #EXTINF:0 group-title="aydex",Teve2
 https://tv.kuzeytv.com/hls/teve2.m3u8
 
 #EXTINF:0 group-title="aydex",Haber 61
 https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/chunklist_w998927917_b1600000.m3u8
 
-
+#EXTINF:-1 group-title="aydex",UCANKUS TV HD
+http://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 
 #EXTINF:-1 group-title="aydex",TRT 1
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
