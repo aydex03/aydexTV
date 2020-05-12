@@ -25,6 +25,9 @@ https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e198
 #EXTINF:0 group-title="MUZIK",NUMBER ONE ASK
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunks.m3u8
 
+#EXTINF:-0 group-title="MUZIK",Milyon TV
+http://milyontv.netmedya.net/hls/milyontv.m3u8
+
 #EXTINF:-0 group-title="MUZIK",Damar TV
 http://51.255.7.18:8080/hls/damar.m3u8
 
