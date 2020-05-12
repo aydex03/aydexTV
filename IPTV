@@ -121,6 +121,10 @@ http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 group-title="aydex",Afyon Turk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+#EXTINF:-0 group-title="aydex",Almanya*da Türk TV
+http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8
+#EXTINF:-0 group-title="aydex",Brüksel Türk TV
+http://live.arkumedia.com:1935/brukselturktv/brukselturktv/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="TEST",KANAL D
