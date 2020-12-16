@@ -6,8 +6,6 @@ http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
 
 #EXTINF:0 group-title="MUZIK",KRAL TV
 http://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:0 group-title="MUZIK",KRAL TV test
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1590005517/ei/rDrFXvKKOuHG7AS73YegCg/ip/2a01%3Ac22%3A8c7b%3Af600%3A4819%3A315f%3A1484%3Ae220/id/88tf0H1ycDU.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgRsfh9KJVK2Ubaot0yGTIheGh4-qC7kMFTCw86fzF_7ACIQCPDyd2XCQrnMXYjJlvld8jmAt5qgIeLr2RA1HLwgrjSA%3D%3D/file/index.m3u8
 
 #EXTINF:0 group-title="MUZIK",KRAL POP
 http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
