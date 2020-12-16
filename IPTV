@@ -25,20 +25,8 @@ https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e198
 #EXTINF:0 group-title="MUZIK",NUMBER ONE ASK
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunks.m3u8
 
-#EXTINF:-0 group-title="MUZIK",Milyon TV
-http://milyontv.netmedya.net/hls/milyontv.m3u8
-
-#EXTINF:-0 group-title="MUZIK",Damar TV
-http://51.255.7.18:8080/hls/damar.m3u8
-
-#EXTINF:-0 group-title="MUZIK",SLOW KARADENIZ TV
-http://slowkaradeniztv.yayin.com.tr/slowkaradeniztv/smil:slowkaradeniztv.smil/playlist.m3u8
-
 #EXTINF:0 group-title="MUZIK",TRT Muzik
 https://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
-
-#EXTINF:0 group-title="MUZIK",POWER TV
-https://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8
 
 #EXTINF:0 group-title="MUZIK",NUMBER ONE TV
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunks.m3u8
@@ -177,112 +165,6 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/105
 #EXTINF:-1 group-title="TEST",YOL TV 
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/107
 
-#EXTINF:TR group-title="Ulusal",TRT 1    
-http://94.46.195.170:9000/trt1/live.m3u8
-#EXTINF:TR group-title="Ulusal", A TV 
-http://94.46.195.170:9000/atv/live.m3u8
-#EXTINF:TR group-title="Ulusal",STAR TV 
-http://94.46.195.170:9000/startv/live.m3u8
-#EXTINF:TR group-title="Ulusal", KANAL D 
-http://94.46.195.170:9000/kanald/live.m3u8
-#EXTINF:TR group-title="Ulusal",SHOW TV 
-http://94.46.195.170:9000/showtv/live.m3u8
-#EXTINF:TR group-title="Ulusal",FOX TV 
-http://94.46.195.170:9000/foxtv/live.m3u8
-#EXTINF:TR group-title="Ulusal",TV 85 
-http://94.46.195.170:9000/kanal8b/live.m3u8
-#EXTINF:TR group-title="Ulusal",360 TV  
-http://94.46.195.170:9000/skyturk/live.m3u8
-#EXTINF:TR group-title="Ulusal",A 2 TV 
-http://94.46.195.170:9000/a2tv/live.m3u8
-#EXTINF:TR group-title="Ulusal",BEYAZ TV 
-http://94.46.195.170:9000/beyaztv/live.m3u8
-#EXTINF:TR group-title="Ulusal",KANAL 7 turk
-http://94.46.195.170:9000/kanal7/live.m3u8
-#EXTINF:TR group-title="Ulusal",KANAL 7 euro 
-http://94.46.195.170:9000/kanal7avrupa/live.m3u8
-#EXTINF:TR group-title="Ulusal",A HABER 
-http://94.46.195.170:9000/ahaber/live.m3u8
-#EXTINF:TR group-title="Ulusal",A NEWS 
-http://94.46.195.170:9000/anews/live.m3u8
-#EXTINF:TR group-title="Ulusal",KANAL 24 
-http://94.46.195.170:9000/kanal24/live.m3u8
-#EXTINF:TR group-title="Ulusal",TGRT EU 
-http://94.46.195.170:9000/tgrteu/live.m3u8
-#EXTINF:TR group-title="Ulusal",CNN TURK
-http://94.46.195.170:9000/cnnturk/live.m3u8
-#EXTINF:TR group-title="Ulusal",BlOOMBERGHT TV 
-http://94.46.195.170:9000/bloomberght/live.m3u8
-#EXTINF:TR group-title="Ulusal",TV-A 
-http://94.46.195.170:9000/tv-a/live.m3u8
-#EXTINF:TR group-title="Ulusal",KAYSERİ TV 
-http://94.46.195.170:9000/tvkayseri/live.m3u8
-#EXTINF:TR group-title="Ulusal",KARADENİZ TV 
-http://94.46.195.170:9000/krt-tv/live.m3u8
-#EXTINF:TR group-title="Ulusal",KABE TV DİNİ 
-http://94.46.195.170:9000/kabe-tv/live.m3u8
-#EXTINF:TR group-title="Ulusal",LALEGUL TV DİNİ 
-http://94.46.195.170:9000/lalegultv/live.m3u8
-#EXTINF:TR group-title="Ulusal",TV 5 DİNİ 
-http://94.46.195.170:9000/tv5/live.m3u8
-#EXTINF:TR group-title="Ulusal",SEMERKANT TV 
-http://94.46.195.170:9000/semerkandtv/live.m3u8
-#EXTINF:TR group-title="Ulusal",REHBER TV 
-http://94.46.195.170:9000/rehbertv/live.m3u8
-#EXTINF:TR group-title="Ulusal",CEM TV 
-http://94.46.195.170:9000/cemtv/live.m3u8
-#EXTINF:TR group-title="Ulusal",CEM TV  
-http://yayin10.canliyayin.org/P981680400/cemtv/playlist.m3u8
-#EXTINF:TR group-title="Ulusal",TV 117 
-http://1.rtmp.org:80/tv117/yayin.stream/playlist.m3u8
-#EXTINF:TR group-title="Ulusal",A SPOR 
-http://94.46.195.170:9000/aspor/live.m3u8
-#EXTINF:TR group-title="Ulusal",BEIN SPOR HABER  
-http://94.46.195.170:9000/bein-sports-haber/live.m3u8
-#EXTINF:TR group-title="Ulusal",FB TV  
-http://94.46.195.170:9000/fbtv/live.m3u8
-#EXTINF:TR group-title="Ulusal",N TV SPOR 
-https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF:TR group-title="Ulusal",N TV SPOR 
-http://94.46.195.170:9000/ntvspor/live.m3u8
-#EXTINF:TR group-title="Ulusal",SPORTUS TV 
-http://94.46.195.170:9000/sportstv/live.m3u8
-#EXTINF:TR group-title="Ulusal",TAY TV  
-http://media.netd.com.tr/S2/HLS_LIVE/tay/playlist.m3u8
-#EXTINF:TR group-title="Ulusal",TAY TV 
-http://94.46.195.170:9000/taytv/live.m3u8
-#EXTINF:TR group-title="Ulusal",İDMAN AZ 
-http://94.46.195.170:9000/idmantv/live.m3u8
-#EXTINF:TR group-title="Ulusal",TLC TURK  
-http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:TR group-title="Ulusal",TLC TURK 2 
-http://94.46.195.170:9000/tlctv/live.m3u8
-#EXTINF:TR group-title="Ulusal",TGRT BELGESEL  
-http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/iptvbox.m3u8
-#EXTINF:TR group-title="Ulusal",TGRT HABER 
-http://94.46.195.170:9000/tgrthaber/live.m3u8
-#EXTINF:TR group-title="Ulusal",TGRT BELGESEL 
-http://94.46.195.170:9000/tgrtbelgesel/live.m3u8
-#EXTINF:TR group-title="Ulusal",AV TV   
-http://94.46.195.170:9000/av-tv/live.m3u8
-#EXTINF:TR group-title="Ulusal",AV TV  
-http://yayin3.canlitv.com:1935/canlitv/avtv/iptvbox.m3u8
-#EXTINF:TR group-title="Ulusal",KÖY TV 
-http://94.46.195.170:9000/koytv/live.m3u8
-#EXTINF:TR group-title="Ulusal",CIFCI TV 
-http://94.46.195.170:9000/ciftci-tv/live.m3u8
-#EXTINF:TR group-title="Ulusal",TRT COCUK  
-http://94.46.195.170:9000/trtcocuk/live.m3u8
-#EXTINF:TR group-title="Ulusal",CARATON NETWORK COCUK 
-http://94.46.195.170:9000/cartoonnetwork/live.m3u8
-#EXTINF:TR group-title="Ulusal",MINIKA COCUK 
-http://94.46.195.170:9000/minikacocuk/live.m3u8
-#EXTINF:TR group-title="Ulusal",MINIKAGO COCUK 
-http://94.46.195.170:9000/minikago/live.m3u8
-#EXTINF:TR group-title="Ulusal",DİSNEY CHANEL  
-http://94.46.195.170:9000/disneychannel/live.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://icons.iconarchive.com/icons/custom-icon-design/flag-3/256/Turkey-Flag-icon.png" tvg-name="BLUTV KOMEDİ HD"  group-title="✫SİNEMA✫",BLUTV KOMEDİ HD
 https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
@@ -290,6 +172,5 @@ https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/ma
 https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.yurtgazetesi.com.tr/images/haberler/2019/11/sinema_destek_fonu_basvuru_tarihi_aciklandi_h142857_988bb.jpg" tvg-name="VİZYON TV"  group-title="✫SİNEMA✫",VİZYON TV
 https://vizyontv.yayin.com.tr/vizyontv/vizyontv_1080p/chunklist_w1148765115.m3u8
-#EXTINF:-1 tvg-logo="https://www.yurtgazetesi.com.tr/images/haberler/2019/11/sinema_destek_fonu_basvuru_tarihi_aciklandi_h142857_988bb.jpg" tvg-name="YAN SİNEMA TV"  group-title="✫SİNEMA✫",YAN SİNEMA TV
-https://usb1.ninacdn.com/ssh101/YansinemaTV/YansinemaTV/chunklist_w1521989757.m3u8
+
 
