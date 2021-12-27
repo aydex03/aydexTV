@@ -10,23 +10,23 @@ https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 #EXTINF:0 group-title="MUZIK",KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 
-#EXTINF:0 group-title="MUZIK",KRAL POP
-http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:0 group-title="MUZIK",POWER TURK
+http://waw3.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
 
 #EXTINF:0 group-title="MUZIK",POWER TURK
-https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
-#EXTINF:0 group-title="MUZIK",NUMBER ONE TURK
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunks.m3u8
+#EXTINF:0 group-title="MUZIK",Tatlises TV
+http://waw3.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 
-#EXTINF:0 group-title="MUZIK",NUMBER ONE DAMAR
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunks.m3u8
+#EXTINF:0 group-title="MUZIK",Tatlises TV
+http://yerelmedya.tv:1935/tatlisestv/bant1/playlist.m3u8
 
-#EXTINF:0 group-title="MUZIK",NUMBER ONE ASK
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunks.m3u8
+#EXTINF:0 group-title="MUZIK",Milyon TV
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 
-#EXTINF:0 group-title="MUZIK",TRT Muzik
-https://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 group-title="MUZIK",Power TV
+http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 
 #EXTINF:0 group-title="MUZIK",NUMBER ONE TV
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunks.m3u8
@@ -35,29 +35,29 @@ https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17c
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 
-#EXTINF:0 group-title="aydex",STAR TV 
-http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:0 group-title="aydex",Euro D 
+http://iptvmasterlink.dyndns.org:8080/EuroD/playlist.m3u8
 
 #EXTINF:0 group-title="aydex",EURO STAR
-http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
+http://iptvmasterlink.dyndns.org:8080/EuroStar/playlist.m3u8
 
-#EXTINF:0 group-title="aydex",Kanal D
-https://tv.kuzeytv.com/hls/kanald.m3u8
+#EXTINF:0 group-title="aydex",Show Turk
+http://iptvmasterlink.dyndns.org:8080/ShowTurk/playlist.m3u8
 
-#EXTINF:0 group-title="aydex",Show TV
-https://tv.kuzeytv.com/hls/show.m3u8
+#EXTINF:0 group-title="aydex",Kanal 7 Avrupa
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
-#EXTINF:0 group-title="aydex",ATV
-https://tv.kuzeytv.com/hls/atv.m3u8
+#EXTINF:0 group-title="aydex",Sat 7 Türk
+http://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_720p/playlist.m3u8
 
-#EXTINF:0 group-title="aydex",FOX
-https://tv.kuzeytv.com/hls/fox.m3u8
+#EXTINF:0 group-title="aydex",ON 4
+http://yayin.netradyom.com:1935/live/on4/playist.m3u8
 
-#EXTINF:0 group-title="aydex",TV 8
-https://tv.kuzeytv.com/hls/tv8.m3u8
+#EXTINF:0 group-title="aydex",Halk TV
+https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 
-#EXTINF:0 group-title="aydex",TV 8.5
-https://tv.kuzeytv.com/hls/tv85.m3u8
+#EXTINF:0 group-title="aydex",NTV
+https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
 
 #EXTINF:0 group-title="aydex",Kanal 7
 https://tv.kuzeytv.com/hls/kanal7.m3u8
@@ -117,61 +117,6 @@ http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist
 #EXTINF:-0 group-title="aydex",Brüksel Türk TV
 http://live.arkumedia.com:1935/brukselturktv/brukselturktv/chunklist.m3u8
 
-
-#EXTINF:-1 group-title="TEST",KANAL D
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/66
-#EXTINF:-1 group-title="TEST",STAR
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/69
-#EXTINF:-1 group-title="TEST",FOX
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/72
-#EXTINF:-1 group-title="TEST",TV 8
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
-#EXTINF:-1 group-title="TEST",KANAL 7
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/83
-#EXTINF:-1 group-title="TEST",BEYAZ
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/87
-#EXTINF:-1 group-title="TEST",CNN TÜRK
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/129
-#EXTINF:-1 group-title="TEST",HABER TÜRK
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/130
-#EXTINF:-1 group-title="TEST",NTV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/128
-#EXTINF:-1 group-title="TEST",24 HABER
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/134
-#EXTINF:-1 group-title="TEST",A2
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/89
-#EXTINF:-1 group-title="TEST",TV 5
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/113
-#EXTINF:-1 group-title="TEST",KRT
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/135
-#EXTINF:-1 group-title="TEST",TV 100
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/136
-#EXTINF:-1 group-title="TEST",BLOOMBERG HT
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/151
-#EXTINF:-1 group-title="TEST",EKO TÜRK
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/152
-#EXTINF:-1 group-title="TEST",ARTI TV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/139
-#EXTINF:-1 group-title="TEST",TELE 1
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/140
-#EXTINF:-1 group-title="TEST",HALK TV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/141
-#EXTINF:-1 group-title="TEST",ULUSAL KANAL
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/142
-#EXTINF:-1 group-title="TEST",CEM TV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/104
-#EXTINF:-1 group-title="TEST",CAN TV 
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/105
-#EXTINF:-1 group-title="TEST",YOL TV 
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/107
-
-
-#EXTINF:-1 tvg-logo="https://icons.iconarchive.com/icons/custom-icon-design/flag-3/256/Turkey-Flag-icon.png" tvg-name="BLUTV KOMEDİ HD"  group-title="✫SİNEMA✫",BLUTV KOMEDİ HD
-https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
-#EXTINF:-1 tvg-logo="https://icons.iconarchive.com/icons/custom-icon-design/flag-3/256/Turkey-Flag-icon.png" tvg-name="BLUTV KOMEDİ HD"  group-title="✫SİNEMA✫",BLUTV KOMEDİ HD
-https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.yurtgazetesi.com.tr/images/haberler/2019/11/sinema_destek_fonu_basvuru_tarihi_aciklandi_h142857_988bb.jpg" tvg-name="VİZYON TV"  group-title="✫SİNEMA✫",VİZYON TV
-https://vizyontv.yayin.com.tr/vizyontv/vizyontv_1080p/chunklist_w1148765115.m3u8
 
 http://stream.nmbs.top/lists/Turkish.m3u8
 http://stream.nmbs.top/lists/Germany.m3u8
