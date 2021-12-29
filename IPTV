@@ -1,37 +1,37 @@
 #EXTM3U
 
 
-#EXTINF:0 group-title="MUZIK",KRAL TV
+#EXTINF:0 group-title="TÜRK_MUZIK",KRAL TV
 http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
 
-#EXTINF:0 group-title="MUZIK",KRAL TV
+#EXTINF:0 group-title="TÜRK_MUZIK",KRAL TV
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 
-#EXTINF:0 group-title="MUZIK",KRAL POP
+#EXTINF:0 group-title="TÜRK_MUZIK",KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 
-#EXTINF:0 group-title="MUZIK",POWER TURK
+#EXTINF:0 group-title="TÜRK_MUZIK",POWER TURK
 http://waw3.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
 
-#EXTINF:0 group-title="MUZIK",POWER TURK
+#EXTINF:0 group-title="TÜRK_MUZIK",POWER TURK
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
-#EXTINF:0 group-title="MUZIK",Tatlises TV
+#EXTINF:0 group-title="TÜRK_MUZIK",Tatlises TV
 http://waw3.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 
-#EXTINF:0 group-title="MUZIK",Tatlises TV
+#EXTINF:0 group-title="TÜRK_MUZIK",Tatlises TV
 http://yerelmedya.tv:1935/tatlisestv/bant1/playlist.m3u8
 
-#EXTINF:0 group-title="MUZIK",Milyon TV
+#EXTINF:0 group-title="TÜRK_MUZIK",Milyon TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 
-#EXTINF:0 group-title="MUZIK",Power TV
+#EXTINF:0 group-title="TÜRK_MUZIK",Power TV
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 
-#EXTINF:0 group-title="MUZIK",NUMBER ONE TV
+#EXTINF:0 group-title="TÜRK_MUZIK",NUMBER ONE TV
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunks.m3u8
 
-#EXTINF:0 group-title="MUZIK",M20
+#EXTINF:0 group-title="TÜRK_MUZIK",M20
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 
@@ -105,8 +105,44 @@ http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist
 #EXTINF:-0 group-title="aydex",Brüksel Türk TV
 http://live.arkumedia.com:1935/brukselturktv/brukselturktv/chunklist.m3u8
 
+#EXTINF:-1 group-title="*TÜRK_MUZIK",KRAL POP
+http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+#EXTINF:-1 group-title="*TÜRK_RADYOLAR",KRAL POP
+http://kralpopwmp.radyotvonline.com/;stream.mp3
+#EXTINF:-1 group-title="*TÜRK_RADYOLAR",Kral Pop Radyo
+http://46.20.3.202:80
+#EXTINF:-1 group-title="*TÜRK_MUZIK",Kral Pop TV
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:-1 group-title="*TÜRK_MUZIK",KRAL TV
+http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
+#EXTINF:-1 group-title="*TÜRK_MUZIK",KRAL TV
+https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_MUZIK",Kral TV
+https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8
+#EXTINF:-1 group-title="*TÜRK_MUZIK",TATLISES
+http://yerelmedya.tv:1935/tatlisestv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_MUZIK",TATLISES
+https://waw1.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_MUZIK",Müzik Habercisi
+https://tv170.ozelip.com:1936/muzik/muzik/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_RADYOLAR",KRAL TÜRK FM
+https://yayin.radyoarabesk.com.tr:8000/stream
+#EXTINF:-1 group-title="*TÜRK_MUZIK",Zeyno TV
+https://yayin.santraltr.com/hls/zeynotv.m3u8
+#EXTINF:-1 group-title="*TÜRK_MUZIK",Vatan TV
+https://livesx.canlitv.center/vatantv.m3u8
+#EXTINF:-1 group-title="*TÜRK_MUZIK",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="*TÜRK_MUZIK",TR:POWERTÜRK TV (1080p)
+https://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="*TÜRK_MUZIK",Top Pop TV
+https://yayin.santraltr.com/hls/toppop.m3u8
+#EXTINF:-1 group-title="*TÜRK_MUZIK",TMB TV
+https://ankara.tvizlehd.com/live/tmbtv.m3u8
+#EXTINF:-1 group-title="*TÜRK_MUZIK",ezo tv
+https://yayin.santraltr.com/hls/ezo.m3u8
+#EXTINF:-1 group-title="*TÜRK_MUZIK",Arabesk TV
+https://yayin.santraltr.com/hls/arabeskyeni.m3u8
 
-http://stream.nmbs.top/lists/Turkish.m3u8
-http://stream.nmbs.top/lists/Germany.m3u8
 
 
