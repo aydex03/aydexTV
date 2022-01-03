@@ -2,100 +2,103 @@
 
 #EXTINF:1 tvg-id="TRT1.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2e8f5526-766a-4e93-a11f-af8bc0455689.png" group-title="Ulusal",TRT 1 
 https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
-#EXTINF:1 tvg-id="ATVTurkiye.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" group-title="Ulusal",atv
-https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
-#EXTINF:1 tvg-id="KanalD.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1cf4d482-3dcb-4e21-b187-0f3985e80013.png" group-title="Ulusal",Kanal D
-http://93.157.62.180/KanalD/index.m3u8
-#EXTINF:1 tvg-id="FoxTurkiye.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e79397a0-ec34-41aa-97b5-9323f1296383.png" group-title="Ulusal",Fox TV
-http://93.157.62.180/FoxTurk/index.m3u8
-#EXTINF:1 tvg-id="ShowTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b3962b16-26f7-4e71-a107-c45652bd5442.png" group-title="Ulusal",Show TV
-http://93.157.62.180/ShowTV/index.m3u8
-#EXTINF:1 tvg-id="BeyazTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/19caa45e-9f6e-489f-a86c-2dec06012d86.png" group-title="Ulusal",Beyaz TV
-https://mn-nl.mncdn.com/blutv_beyaztv2/live_720p2000000kbps/index.m3u8
-#EXTINF:1 tvg-id="Kanal7.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ce2fa5d6-80be-4db3-88cc-493a8a3ea655.png" group-title="Ulusal",Kanal 7
-https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
-#EXTINF:1 tvg-id="TV8.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/394c5a3d-de9f-4a05-a268-ea8100d7e7ea.png" group-title="Ulusal",TV8
-https://livex458745.livestreamlive.xyz/tv8.m3u8
-#EXTINF:1 tvg-id="StarTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png" group-title="Ulusal",Star TV
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#EXTINF:1 tvg-id="360.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3779a336-8033-4745-af5a-356ef10a2a36.png" group-title="Ulusal",360 TV
-http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8
-#EXTINF:1 tvg-id="TV100.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e9bd1848-30e3-4798-bc39-a35b611771ba.png" group-title="Ulusal",TV100
-https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
+#EXTINF:-1 group-title="Turkish",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Turkish",TRT 2
+http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="TRTTurk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8ea87965-bed0-40a7-a31a-1209612ee8d8.png" group-title="Ulusal",TRT Türk
 https://tv-trtturk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Turkish",TRT Turk
+https://tv-trtturk.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:1 tvg-id="ATVTurkiye.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" group-title="Ulusal",atv
+https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+
+#EXTINF:1 tvg-id="StarTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png" group-title="Ulusal",Star TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:0 group-title="Turkish",EURO STAR
+http://iptvmasterlink.dyndns.org:8080/EuroStar/playlist.m3u8
+
+#EXTINF:1 tvg-id="KanalD.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1cf4d482-3dcb-4e21-b187-0f3985e80013.png" group-title="Ulusal",Kanal D
+http://93.157.62.180/KanalD/index.m3u8
+#EXTINF:0 group-title="Turkish",Euro D 
+http://iptvmasterlink.dyndns.org:8080/EuroD/playlist.m3u8
+
+#EXTINF:1 tvg-id="ShowTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b3962b16-26f7-4e71-a107-c45652bd5442.png" group-title="Ulusal",Show TV
+http://93.157.62.180/ShowTV/index.m3u8
+#EXTINF:0 group-title="Turkish",Show Turk
+http://iptvmasterlink.dyndns.org:8080/ShowTurk/playlist.m3u8
+
+#EXTINF:1 tvg-id="FoxTurkiye.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e79397a0-ec34-41aa-97b5-9323f1296383.png" group-title="Ulusal",Fox TV
+http://93.157.62.180/FoxTurk/index.m3u8
+
+#EXTINF:1 tvg-id="TV8.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/394c5a3d-de9f-4a05-a268-ea8100d7e7ea.png" group-title="Ulusal",TV8
+https://livex458745.livestreamlive.xyz/tv8.m3u8
 #EXTINF:1 tvg-id="TV8International.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/451500bb-f2bc-491f-a0bb-72d45790832e.png" group-title="Ulusal",TV8 Int
 https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
 
-
-#EXTINF:0 group-title="aydex",Euro D 
-http://iptvmasterlink.dyndns.org:8080/EuroD/playlist.m3u8
-
-#EXTINF:0 group-title="aydex",EURO STAR
-http://iptvmasterlink.dyndns.org:8080/EuroStar/playlist.m3u8
-
-#EXTINF:0 group-title="aydex",Show Turk
-http://iptvmasterlink.dyndns.org:8080/ShowTurk/playlist.m3u8
-
-#EXTINF:0 group-title="aydex",Kanal 7 Avrupa
+#EXTINF:1 tvg-id="Kanal7.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ce2fa5d6-80be-4db3-88cc-493a8a3ea655.png" group-title="Ulusal",Kanal 7
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:0 group-title="Turkish",Kanal 7 Avrupa
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
-#EXTINF:0 group-title="aydex",Sat 7 Türk
+#EXTINF:1 tvg-id="BeyazTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/19caa45e-9f6e-489f-a86c-2dec06012d86.png" group-title="Ulusal",Beyaz TV
+https://mn-nl.mncdn.com/blutv_beyaztv2/live_720p2000000kbps/index.m3u8
+
+
+#EXTINF:1 tvg-id="360.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3779a336-8033-4745-af5a-356ef10a2a36.png" group-title="Ulusal",360 TV
+http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8
+
+#EXTINF:1 tvg-id="TV100.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e9bd1848-30e3-4798-bc39-a35b611771ba.png" group-title="Ulusal",TV100
+https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
+
+#EXTINF:0 group-title="Turkish",Sat 7 Türk
 http://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_720p/playlist.m3u8
 
-#EXTINF:0 group-title="aydex",ON 4
+#EXTINF:0 group-title="Turkish",ON 4
 http://yayin.netradyom.com:1935/live/on4/playist.m3u8
 
-#EXTINF:0 group-title="aydex",Halk TV
+#EXTINF:0 group-title="Turkish",Halk TV
 https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 
-#EXTINF:0 group-title="aydex",NTV
+#EXTINF:0 group-title="Turkish",NTV
 https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
 
-#EXTINF:0 group-title="aydex",Akit TV
+#EXTINF:0 group-title="Turkish",Akit TV
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
 
-#EXTINF:-1 group-title="aydex",UCANKUS TV HD
+#EXTINF:-1 group-title="Turkish",UCANKUS TV HD
 http://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 
-#EXTINF:-1 group-title="aydex",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 group-title="aydex",TRT 2
-http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="aydex",TRT Turk
-https://tv-trtturk.live.trt.com.tr/master_720.m3u8
-
-#EXTINF:0 group-title="aydex",TV 4
+#EXTINF:0 group-title="Turkish",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
-#EXTINF:-1 group-title="aydex",TGRT Haber
+#EXTINF:-1 group-title="Turkish",TGRT Haber
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="aydex",NTV
+#EXTINF:-1 group-title="Turkish",NTV
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="aydex",TRT Belgesel
+#EXTINF:-1 group-title="Turkish",TRT Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="aydex",Medya Haber
+#EXTINF:-1 group-title="Turkish",Medya Haber
 http://137.74.205.201/live1/mh-3mbps.m3u8
 
-#EXTINF:-1 group-title="aydex",TLC TV
+#EXTINF:-1 group-title="Turkish",TLC TV
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 
-#EXTINF:-1 group-title="aydex",DMAX
+#EXTINF:-1 group-title="Turkish",DMAX
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="aydex",TRT Cocuk
+#EXTINF:-1 group-title="Turkish",TRT Cocuk
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 group-title="aydex",Afyon Turk TV
+#EXTINF:-1 group-title="Turkish",Afyon Turk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
-#EXTINF:-0 group-title="aydex",Almanya*da Türk TV
+#EXTINF:-0 group-title="Turkish",Almanya*da Türk TV
 http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8
-#EXTINF:-0 group-title="aydex",Brüksel Türk TV
+#EXTINF:-0 group-title="Turkish",Brüksel Türk TV
 http://live.arkumedia.com:1935/brukselturktv/brukselturktv/chunklist.m3u8
 
 #EXTINF:0 group-title="TÜRK_MUZIK",KRAL TV
@@ -162,4 +165,82 @@ https://yayin.santraltr.com/hls/arabeskyeni.m3u8
 https://yayin.radyoarabesk.com.tr:8000/stream
 #EXTINF:-1 group-title="RADYO",Kral Pop Radyo
 http://46.20.3.202:80
+
+#EXTINF:0 group-title="Germany",Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:0 group-title="Germany",ZDF
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:0 group-title="Germany",NDR
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
+#EXTINF:0 group-title="Germany",ZDF Info
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:0 group-title="Germany",Phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:0 group-title="Germany",ARD-Alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF:0 group-title="Germany",Deutsche Welle
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8
+#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_3@66339/index_3712_av-p.m3u8
+#EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
+http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
+#EXTINF:-1 tvg-name="euronews deutsch" tvg-id="euronews.com" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png",euronews deutsch
+https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="RT DE" tvg-id="RT.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtde.png",RT DE
+https://rt-ger.gcdn.co/live/rtdeutsch/playlist.m3u8
+#EXTINF:-1 tvg-name="Bild" tvg-id="BILD.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png",Bild
+https://bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/master.m3u8
+#EXTINF:-1 tvg-name="ANIXE HD" tvg-id="Anixe.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png",ANIXE HD
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-name="More than Sports TV" tvg-id="eoTV.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/morethansports.png",More than Sports TV
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/playlist.m3u8
+#EXTINF:-1 tvg-name="RiC / eoTV" tvg-id="RiC.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ric.png",RiC / eoTV
+https://www.youtube.com/embed/lpNnFuJXDV4
+#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png",Nickelodeon
+https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+#EXTINF:-1 tvg-name="Ö3-VisualRadio" tvg-id="oe3.at" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png",Ö3-VisualRadio
+https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest.m3u8
+#EXTINF:-1 tvg-name="SWR3-VisualRadio" tvg-id="swr3.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png",SWR3-VisualRadio
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1 tvg-name="DASDING-VisualRadio" tvg-id="Dasding.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png",DASDING-VisualRadio
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:-1 tvg-name="UNSERDING-VisualRadio" tvg-id="Unserding.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/unserding.png",UNSERDING-VisualRadio
+https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8
+#EXTINF:-1 tvg-name="Rockland TV" tvg-id="Rockland.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rocklandtv.png",Rockland TV
+http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
+#EXTINF:-1 tvg-name="MTV Germany" tvg-id="MTVGermany.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png",MTV Germany
+http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8
+#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-id="DeLuxeTurkish.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png",DELUXE MUSIC
+https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Folx TV" tvg-id="FolxTV.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/folxtv.png",Folx TV
+https://serve-first.folxplay.tv/folx/ch-4/master.m3u8
+#EXTINF:-1 tvg-name="Deutsches Musik Fernsehen" tvg-id="DeutschesMusikFernsehen.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png",Deutsches Musik Fernsehen
+https://tv.artcom-venture.de/dmf/tv_720.m3u8
+#EXTINF:-1 tvg-name="Magenta Musik 360 1" tvg-id="MagentaMusik1.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/magentamusik.png",Magenta Musik 360 1
+https://streaming.magenta-musik-360.de/csm/573870/magentamusik1/index.m3u8
+#EXTINF:-1 tvg-name="Magenta Musik 360 2" tvg-id="MagentaMusik2.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/magentamusik.png",Magenta Musik 360 2
+https://streaming.magenta-musik-360.de/csm/573871/magentamusik2/index.m3u8
+
+
 
