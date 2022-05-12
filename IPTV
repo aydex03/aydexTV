@@ -1135,3 +1135,133 @@ https://live-server-1.splitstream.io/130342e6-e312-4a41-8d15-98e98ae01ae4/tracks
 https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="" group-title="Özel",Zeki & Metin TV
 http://live-server-2.splitstream.io/474f286e-10bb-414c-816b-652239507141/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 1 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 1 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,893nv1ix7at4_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 2 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 2 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,48dn26874t48_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 3 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 3 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,rva0upk9b5p6_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 4 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 4 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,24wjoo0dfjir_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 5 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 5 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,qx2j8skm9gwy_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 6 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 6 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,esj0c2i8oe6y_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 7 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 7 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,uasvuo5eqlit_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 8 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 8 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,rc3e74hzbgu8_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 9 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 9 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,i1kvlfgjdnwl_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 10 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 10 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,bpsmxi2fs28n_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 11 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 11 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,ct35ptlezm3o_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 12 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 12 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,ebok31hsbo1q_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 13 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 13 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,2urxvnd901n5_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 14 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 14 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,s3sw4zuqh4yf_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 15 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 15 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,7azlnay6vnu2_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 16 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 16 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,6hk1wako2tyf_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 17 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 17 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,kmjq3v6rgh1b_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 18 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 18 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,8dfaotrnti1q_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 19 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 19 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,tpdwzbxqqbun_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 20 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 20 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,3f7681t8igfx_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 21 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 21 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,hwyinfnttns2_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 22 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 22 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,phfyi295a26l_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 23 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 23 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,33hrx6t99z00_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 24 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 24 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,6bug6zh3t947_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 25 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 25 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,pufpnq4jzal6_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 26 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 26 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,1nlxaftb4wwo_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 27 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 27 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,4r7k0z2h3yjm_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 28 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 28 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,stjc5hoitbor_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 29 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 29 Bölüm
+https://stream.dizipal228.com/hls2/01/00006/,qawsy738dgku_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 30 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 30 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,58vkm2pvze88_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 31 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 31 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,zvvyillht992_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 32 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 32 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,wywl4sltrg3b_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 33 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 33 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,b0p7bbkpkl33_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 34 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 34 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,6tn0vqb4qn7c_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 35 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 35 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,k4gcl2zugip5_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 36 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 36 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,0nu7pp07ut9c_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 37 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 37 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,sx94bms1nioi_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 38 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 38 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,hthrpa67ssrq_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 39 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 39 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,rsyfhfm3uqu9_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 40 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 40 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,jlf9wv8233ce_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 41 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 41 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,ov7mkevyqovd_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 42 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 42 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,rcedcfl7rsxx_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 43 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 43 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,0xig1ncggwtt_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 44 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 44 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,njxnea03vl0i_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 45 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 45 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,ygrm08ia0qf1_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 46 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 46 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,vv6jkzsh22rq_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 47 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 47 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,cecgtuoo6by2_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 48 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 48 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,vzcqp48sux7i_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 49 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 49 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,sheg4c0losv8_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 50 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 50 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,jwmg6y63qdb8_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 51 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 51 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,6u0e0yzdpfr1_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 52 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 52 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,zicgzzwp5rzs_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 53 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 53 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,jmymwdfaipv7_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 54 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 54 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,kf440q02h3us_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 55 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 55 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,zt9zklkxs0ch_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 56 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 56 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,fhdklojqw9qe_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 57 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 57 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,bh8pzp8y4iry_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 58 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 58 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,u6i04z9tkwl7_n,.urlset/master.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 59 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 59 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,92cpfakhr9i5_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 60 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 60 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,e1vo77o1njn4_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 61 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 61 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,o40w1z2xmc4s_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 62 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 62 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,cp5v74oio76p_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 63 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 63 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,prxapqk026dx_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 64 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 64 Bölüm
+https://stream.dizipal228.com/hls2/01/00008/,6uxl28om3vkm_n,.urlset/index-v1-a1.m3u8
+#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 65 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 65 Bölüm
