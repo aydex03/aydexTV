@@ -1062,204 +1062,107 @@ https://livesx.canlitv.center/yesilyurt.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ea10ee4d-04af-4c47-ab4c-71355ca627e1.png" group-title="Yerel",Yıldız En TV
 https://ankara.tvizlehd.com/live/yildiztv.m3u8
 
-
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8f474336-38db-4689-8424-57c2d7501463.jpg" group-title="Özel",Akkon TV
-https://tv170.ozelip.com:1936/akkontv/akkontv/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/76901451-a9e6-4d73-8a74-eb2ea7034693.png" group-title="Özel",Aktif TV
-https://tv170.ozelip.com:1936/aktif/aktif/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/08e39c95-2734-440c-a8a3-3bc585af86c6.png" group-title="Özel",Almanya TV
-http://fidece38941.ozelip.com:2052/almanyatv/almanyatv/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/5c4f15e2-d431-4cc4-8c44-b02824e60af6.jpg" group-title="Özel",Başkan TV
-https://tv170.ozelip.com:1936/baskantv/baskantv/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/cd799cf6-d002-4ac6-b2ff-8866eb09b9d0.png" group-title="Özel",Durak TV
-https://tv170.ozelip.com:1936/duraktv/duraktv/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/62c5b290-402c-4bd6-a2cb-d0cd0dde8c4e.jpg" group-title="Özel",Fark Türk TV
-https://tv170.ozelip.com:1936/farkturktv/farkturktv/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2b56a849-4453-4d4b-9e2e-2a81c50118b1.jpg" group-title="Özel",Göpsen TV
-https://tv170.ozelip.com:1936/gopsentv/gopsentv/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/93b05582-1dc3-4a2b-b916-69123c4d77b9.png" group-title="Özel",Guek
-http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5592
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e2246aa5-9f01-4aea-b786-999ece599f03.png" group-title="Özel",İsviçre TV
-http://fidece38941.ozelip.com:2052/isvicretv/isvicretv/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0df20c03-60f8-42c2-bcad-94cd7d60cb63.png" group-title="Özel",Kanal İstanbul
-http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/chunklist_w1612362189_b1596000.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/5fcdba97-087c-4f5a-91f1-6765ec8f1057.png" group-title="Özel",Kestel TV
-http://fidece38941.ozelip.com:2052/kesteltv/kesteltv/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0ff2c160-891b-4839-b023-31e1b4435a47.gif" group-title="Özel",Misket TV
-http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3892
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/99a5c4d7-3f86-44e8-8a90-57f348faed66.png" group-title="Özel",Özburun TV
-https://live-server-2.splitstream.io/6820ecfe-70c9-46e5-adb4-26e72809c302/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8c8dde60-9cbd-4dd5-acf7-8aa12ccc2a33.png" group-title="Özel",Super Türk TV
-http://cdn1-superturkhd.yayin.com.tr/superturkhd/amlst:superturkhd/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ac8ef8b2-bae6-4a05-9b29-280e881f94f8.png" group-title="Özel",Suruç TV
-http://adana01.ozelip.com:26258/adana/adana/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8cbc8938-0a17-4cf6-9bc3-cfc2f7a21dd5.png" group-title="Özel",Şaban TV
-http://ankara.tvizlehd.com/live/sabantv.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title="Özel",TBRT Kanal 1
-https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/15ac1875-9023-4cd9-a7a8-41b54c8e9cc3.png" group-title="Özel",TBRT Kanal 6
-https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/15ac1875-9023-4cd9-a7a8-41b54c8e9cc3.png" group-title="Özel",TBRT Teleon Plus
-http://live-server-2.splitstream.io/64952c63-8436-4101-8a9e-8d987726e2aa/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2d01b52d-667d-42a1-b27a-03d1ef964ef6.png" group-title="Özel",Timur Medya TV
-https://rtmp-eu.loola.tv:8081/hlspush/Z1Ai7y5-Z1hm3Vf.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1a02b73c-e91b-4281-8069-002e306edf79.png" group-title="Özel",TiviTürk
-https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/460d6d63-33ee-44f7-a314-9d3234eabffb.png" group-title="Özel",Turkuvaz Kovboy
-http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5243
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/eb52c45d-e301-4754-a8e4-a1a4f32a451a.jpg" group-title="Özel",Türkay TV
-https://rtmp-eu.loola.tv:8081/hlspush/Z2ct8AH-ZtE5La.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a246dd87-23b1-4d50-a9d5-f63dfe50b5ab.png" group-title="Özel",TV Avrupa
-http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e0c00bba-6d44-4ca0-afdd-d15fe4869369.png" group-title="Özel",Vizyon Avrupa Yakası
-https://vizyontv.yayin.com.tr/avrupa-yakasi-tv/avrupa-yakasi-tv/chunklist_w1855313850.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e0c00bba-6d44-4ca0-afdd-d15fe4869369.png" group-title="Özel",Vizyon Bizimkiler
-https://vizyontv.yayin.com.tr/bizimkiler-tv/bizimkiler-tv/chunklist_w922421904.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e0c00bba-6d44-4ca0-afdd-d15fe4869369.png" group-title="Özel",Vizyon Kemal Sunal
-https://vizyontv.yayin.com.tr/kemal-sunal-tv/kemal-sunal-tv/chunklist_w1839200918.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e0c00bba-6d44-4ca0-afdd-d15fe4869369.png" group-title="Özel",Vizyon Recep İvedik
-https://vizyontv.yayin.com.tr/recep-ivedik-tv/recep-ivedik-tv/chunklist_w1540882173.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e0c00bba-6d44-4ca0-afdd-d15fe4869369.png" group-title="Özel",Vizyon Şener Şen
-https://vizyontv.yayin.com.tr/senersen-tv/senersen-tv/chunklist_w1898736178.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e0c00bba-6d44-4ca0-afdd-d15fe4869369.png" group-title="Özel",Vizyon Türk Sineması
-https://vizyontv.yayin.com.tr/turk-sinemasi-tv/turk-sinemasi-tv/chunklist_w857099784.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e0c00bba-6d44-4ca0-afdd-d15fe4869369.png" group-title="Özel",Vizyon Yeşilçam Komedi
-https://vizyontv.yayin.com.tr/yesilcam-komedi-tv/yesilcam-komedi-tv/chunklist_w1220276431.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e0c00bba-6d44-4ca0-afdd-d15fe4869369.png" group-title="Özel",Vizyon Yeşilçam Nostalji
-https://vizyontv.yayin.com.tr/yesilcam-nostalji-tv/yesilcam-nostalji-tv/chunklist_w1875254040.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8497177d-9eee-43d3-bb91-89e6c9ab4956.jpg" group-title="Özel",Yansıma Premium
-https://live-server-1.splitstream.io/130342e6-e312-4a41-8d15-98e98ae01ae4/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/9931d932-65c7-4570-811d-a4996a69c279.png" group-title="Özel",Yansıma Sinema
-https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="" group-title="Özel",Zeki & Metin TV
-http://live-server-2.splitstream.io/474f286e-10bb-414c-816b-652239507141/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 1 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 1 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,893nv1ix7at4_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 2 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 2 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,48dn26874t48_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 3 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 3 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,rva0upk9b5p6_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 4 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 4 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,24wjoo0dfjir_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 5 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 5 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,qx2j8skm9gwy_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 6 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 6 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,esj0c2i8oe6y_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 7 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 7 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,uasvuo5eqlit_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 8 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 8 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,rc3e74hzbgu8_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 9 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 9 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,i1kvlfgjdnwl_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 10 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 10 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,bpsmxi2fs28n_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 11 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 11 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,ct35ptlezm3o_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 12 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 12 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,ebok31hsbo1q_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 13 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 13 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,2urxvnd901n5_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 14 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 14 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,s3sw4zuqh4yf_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 15 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 15 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,7azlnay6vnu2_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 16 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 16 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,6hk1wako2tyf_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 17 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 17 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,kmjq3v6rgh1b_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 18 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 18 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,8dfaotrnti1q_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 19 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 19 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,tpdwzbxqqbun_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 20 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 20 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,3f7681t8igfx_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 21 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 21 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,hwyinfnttns2_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 22 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 22 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,phfyi295a26l_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 23 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 23 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,33hrx6t99z00_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 24 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 24 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,6bug6zh3t947_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 25 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 25 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,pufpnq4jzal6_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 26 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 26 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,1nlxaftb4wwo_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 27 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 27 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,4r7k0z2h3yjm_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 28 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 28 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,stjc5hoitbor_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 29 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 29 Bölüm
-https://stream.dizipal228.com/hls2/01/00006/,qawsy738dgku_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 30 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 30 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,58vkm2pvze88_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 31 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 31 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,zvvyillht992_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 32 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 32 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,wywl4sltrg3b_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 33 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 33 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,b0p7bbkpkl33_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 34 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 34 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,6tn0vqb4qn7c_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 35 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 35 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,k4gcl2zugip5_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 36 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 36 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,0nu7pp07ut9c_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 37 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 37 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,sx94bms1nioi_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 38 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 38 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,hthrpa67ssrq_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 39 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 39 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,rsyfhfm3uqu9_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 40 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 40 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,jlf9wv8233ce_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 41 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 41 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,ov7mkevyqovd_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 42 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 42 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,rcedcfl7rsxx_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 43 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 43 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,0xig1ncggwtt_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 44 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 44 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,njxnea03vl0i_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 45 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 45 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,ygrm08ia0qf1_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 46 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 46 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,vv6jkzsh22rq_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 47 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 47 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,cecgtuoo6by2_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 48 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 48 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,vzcqp48sux7i_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 49 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 49 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,sheg4c0losv8_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 50 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 50 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,jwmg6y63qdb8_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 51 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 51 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,6u0e0yzdpfr1_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 52 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 52 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,zicgzzwp5rzs_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 53 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 53 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,jmymwdfaipv7_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 54 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 54 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,kf440q02h3us_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 55 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 55 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,zt9zklkxs0ch_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 56 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 56 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,fhdklojqw9qe_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 57 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 57 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,bh8pzp8y4iry_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 58 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 58 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,u6i04z9tkwl7_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 59 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 59 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,92cpfakhr9i5_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 60 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 60 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,e1vo77o1njn4_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 61 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 61 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,o40w1z2xmc4s_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 62 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 62 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,cp5v74oio76p_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 63 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 63 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,prxapqk026dx_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 64 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 64 Bölüm
-https://stream.dizipal228.com/hls2/01/00008/,6uxl28om3vkm_n,.urlset/index-v1-a1.m3u8
-#EXTINF: -1 tvg-id="Konusanlar.tr" tvg-name="TR: Konuşanlar 65 Bölüm" tvg-logo="http://bit.do/konusanLar" group-title="Exxen", TR: Konuşanlar 65 Bölüm
+EXTINF:-1 tvg-id="" tvg-name="DE -- 13th Street HD" tvg-logo="" group-title="TV",DE -- 13th Street HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/474
+#EXTINF:-1 tvg-id="" tvg-name="DE -- 3sat HD" tvg-logo="" group-title="TV",DE -- 3sat HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/475
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Boomerang" tvg-logo="" group-title="TV",DE -- Boomerang
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/477
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Cartoon Network" tvg-logo="" group-title="TV",DE -- Cartoon Network
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/478
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Classica" tvg-logo="" group-title="TV",DE -- Classica
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/479
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Das Erste HD" tvg-logo="" group-title="TV",DE -- Das Erste HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/480
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Discovery HD" tvg-logo="" group-title="TV",DE -- Discovery HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/481
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Disney Channel" tvg-logo="" group-title="TV",DE -- Disney Channel
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/482
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Disney Cinemagic HD" tvg-logo="" group-title="TV",DE -- Disney Cinemagic HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/483
+#EXTINF:-1 tvg-id="" tvg-name="DE -- DMAX" tvg-logo="" group-title="TV",DE -- DMAX
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/484
+#EXTINF:-1 tvg-id="" tvg-name="DE -- E! Entertainm. HD" tvg-logo="" group-title="TV",DE -- E! Entertainm. HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/485
+#EXTINF:-1 tvg-id="" tvg-name="DE -- EuroNews" tvg-logo="" group-title="TV",DE -- EuroNews
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/486
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Fox HD" tvg-logo="" group-title="TV",DE -- Fox HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/487
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Heimatkanal" tvg-logo="" group-title="TV",DE -- Heimatkanal
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/488
+#EXTINF:-1 tvg-id="" tvg-name="DE -- History HD" tvg-logo="" group-title="TV",DE -- History HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/489
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Jukebox" tvg-logo="" group-title="TV",DE -- Jukebox
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/490
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Junior" tvg-logo="" group-title="TV",DE -- Junior
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/491
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Kabel eins HD" tvg-logo="" group-title="TV",DE -- Kabel eins HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/492
+#EXTINF:-1 tvg-id="" tvg-name="DE -- KIKA HD" tvg-logo="" group-title="TV",DE -- KIKA HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/493
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Motorvision TV" tvg-logo="" group-title="TV",DE -- Motorvision TV
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/494
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Nat Geo Wild HD" tvg-logo="" group-title="TV",DE -- Nat Geo Wild HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/495
+#EXTINF:-1 tvg-id="" tvg-name="DE -- NatGeo HD" tvg-logo="" group-title="TV",DE -- NatGeo HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/496
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Nickelodeon HD" tvg-logo="" group-title="TV",DE -- Nickelodeon HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/497
+#EXTINF:-1 tvg-id="" tvg-name="DE -- ROMANCE TV" tvg-logo="" group-title="TV",DE -- ROMANCE TV
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/498
+#EXTINF:-1 tvg-id="" tvg-name="DE -- RTL 2 HD" tvg-logo="" group-title="TV",DE -- RTL 2 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/499
+#EXTINF:-1 tvg-id="" tvg-name="DE -- RTL HD" tvg-logo="" group-title="TV",DE -- RTL HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/500
+#EXTINF:-1 tvg-id="" tvg-name="DE -- RTL Nitro HD" tvg-logo="" group-title="TV",DE -- RTL Nitro HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/501
+#EXTINF:-1 tvg-id="" tvg-name="DE -- RTL Television" tvg-logo="" group-title="TV",DE -- RTL Television
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/502
+#EXTINF:-1 tvg-id="" tvg-name="DE -- SAT.1 Gold HD" tvg-logo="" group-title="TV",DE -- SAT.1 Gold HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/503
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Sat.1 HD" tvg-logo="" group-title="TV",DE -- Sat.1 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/504
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Sixx HD" tvg-logo="" group-title="TV",DE -- Sixx HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/505
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Sky Atlantic HD" tvg-logo="" group-title="TV",DE -- Sky Atlantic HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/506
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Sky Cinema  1 HD" tvg-logo="" group-title="TV",DE -- Sky Cinema  1 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/507
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Sky Cinema  24 HD" tvg-logo="" group-title="TV",DE -- Sky Cinema  24 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/508
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Sky Cinema Action HD" tvg-logo="" group-title="TV",DE -- Sky Cinema Action HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/509
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Sky Cinema Family HD" tvg-logo="" group-title="TV",DE -- Sky Cinema Family HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/510
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Sky Cinema HD" tvg-logo="" group-title="TV",DE -- Sky Cinema HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/511
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Sky Cinema Hits HD" tvg-logo="" group-title="TV",DE -- Sky Cinema Hits HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/512
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Sky Krimi" tvg-logo="" group-title="TV",DE -- Sky Krimi
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/513
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Spiegel Geschichte" tvg-logo="" group-title="TV",DE -- Spiegel Geschichte
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/514
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Spiegel TV Wissen" tvg-logo="" group-title="TV",DE -- Spiegel TV Wissen
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/515
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Super RTL HD" tvg-logo="" group-title="TV",DE -- Super RTL HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/516
+#EXTINF:-1 tvg-id="" tvg-name="DE -- SYFY HD" tvg-logo="" group-title="TV",DE -- SYFY HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/517
+#EXTINF:-1 tvg-id="" tvg-name="DE -- TNT Comedy HD" tvg-logo="" group-title="TV",DE -- TNT Comedy HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/518
+#EXTINF:-1 tvg-id="" tvg-name="DE -- TNT Film HD" tvg-logo="" group-title="TV",DE -- TNT Film HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/519
+#EXTINF:-1 tvg-id="" tvg-name="DE -- TNT Serie HD" tvg-logo="" group-title="TV",DE -- TNT Serie HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/520
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Universal HD" tvg-logo="" group-title="TV",DE -- Universal HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/521
+#EXTINF:-1 tvg-id="" tvg-name="DE -- VOX HD" tvg-logo="" group-title="TV",DE -- VOX HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/522
+#EXTINF:-1 tvg-id="" tvg-name="DE -- WDR  HD" tvg-logo="" group-title="TV",DE -- WDR  HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/523
+#EXTINF:-1 tvg-id="" tvg-name="DE -- Welt der Wunder" tvg-logo="" group-title="TV",DE -- Welt der Wunder
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/524
+#EXTINF:-1 tvg-id="" tvg-name="DE -- ZDF HD" tvg-logo="" group-title="TV",DE -- ZDF HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/525
+#EXTINF:-1 tvg-id="" tvg-name="DE -- ZDF info HD" tvg-logo="" group-title="TV",DE -- ZDF info HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/526
