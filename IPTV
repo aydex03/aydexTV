@@ -9,8 +9,16 @@ http://85.187.218.116:19002/play/a07c/index.m3u8
 http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8
 #EXTINF:0,SHOW TV
 http://85.187.218.116:19002/play/a07o/index.m3u8
+#EXTINF:-1,SHOW TV
+https://showtv.blutv.com/blutv_showtv_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1,KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+#EXTINF:-1,FOX
+https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:0,TV8
 http://85.187.218.116:19002/play/a07i/index.m3u8
+#EXTINF:-1,TV8
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 #EXTINF:0,TV8 5
 http://85.187.218.116:19002/play/a07j/index.m3u8
 #EXTINF:0,KANAL 7
@@ -21,6 +29,8 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:0,360
 http://85.187.218.116:19002/play/a07r/index.m3u8
+#EXTINF:-1,BEYAZ TV
+https://beyaztv.blutv.com/blutv_beyaztv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:0,TRT BELGESEL HD
 http://85.187.218.116:19002/play/a06s/index.m3u8
 #EXTINF:0,TRT BELGESEL HD
@@ -29,14 +39,22 @@ http://85.187.218.116:19002/play/a07e/index.m3u8
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:0,24
 http://85.187.218.116:19002/play/a07q/index.m3u8
+#EXTINF:-1,TV 100
+https://tv100.blutv.com/blutv_tv100_live/live_720p2000000kbps/index.m3u8
 #EXTINF:0,TRT HABER HD
 http://85.187.218.116:19002/play/a06q/index.m3u8
+#EXTINF:-1,NTV
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1,TGRT Haber
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 #EXTINF:0,Akit TV
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1,KRT
+https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 #EXTINF:0,ULKE TV
 http://85.187.218.116:19002/play/a07m/index.m3u8
+#EXTINF:-1,TELE 1
+https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
 #EXTINF:0,TRT MUZIK HD
 http://85.187.218.116:19002/play/a06v/index.m3u8
 #EXTINF:0,TRT MUZIK HD
